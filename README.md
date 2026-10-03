@@ -1,2 +1,3 @@
 # GitHub-Intro
-Machine Problem 2 For elective 4 course
+
+Machine Problem 2 for the Elective 4 course.
